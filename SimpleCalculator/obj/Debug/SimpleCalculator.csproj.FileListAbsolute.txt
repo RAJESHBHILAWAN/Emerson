@@ -1,0 +1,11 @@
+D:\Raj\Per\Rnd\2018\Interviews\Calculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+D:\Raj\Per\Rnd\2018\Interviews\Calculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+D:\Raj\Per\Rnd\2018\Interviews\Calculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+D:\Raj\Per\Rnd\2018\Interviews\Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+D:\Raj\Per\Rnd\2018\Interviews\Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.frmCalculator.resources
+D:\Raj\Per\Rnd\2018\Interviews\Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+D:\Raj\Per\Rnd\2018\Interviews\Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+D:\Raj\Per\Rnd\2018\Interviews\Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+D:\Raj\Per\Rnd\2018\Interviews\Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+D:\Raj\Per\Rnd\2018\Interviews\Calculator\SimpleCalculator\SimpleCalculator\bin\Debug\CalculatorLibrary.dll
+D:\Raj\Per\Rnd\2018\Interviews\Calculator\SimpleCalculator\SimpleCalculator\bin\Debug\CalculatorLibrary.pdb
